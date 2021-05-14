@@ -21,4 +21,4 @@ do
 done
 ```
 
-Source: [https://apple.stackexchange.com/questions/245067/clear-clipboard-on-os-x-after-n-seconds](Stack overflow)
+Source: [Stack overflow](https://apple.stackexchange.com/questions/245067/clear-clipboard-on-os-x-after-n-seconds)
